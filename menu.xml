@@ -1,12 +1,14 @@
 <!-- BY CREATED - Pablo bezerra -->
+
 <channels>
-    <channels_info> <!-- this is opitonal -->
-      <title>[B][COLOR white] Seja Bem Vindo Ao PTV - Bezerra [/COLOR][/B]</title> 
-      <genre></genre>
-      <description></description>
-      <thumbnail></thumbnail>
-      <fanart></fanart>
-      <date></date>
-      <credits></credits>
-    </channels_info>
-<channels>
+<channel>
+<name>[B]Seja Bem Vindo Ao PTV - Bezerra [/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+Addon em beta</info>
+</channel>
+</channels>
