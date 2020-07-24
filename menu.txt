@@ -13,7 +13,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR blue] ► [COLOR blue2] Rede Aberta [/COLOR] ◄ [/COLOR] [✔] [/B]</name>
+<name>[B][COLOR blue] ► [COLOR #00008b] Rede Aberta [/COLOR] ◄ [/COLOR] [✔] [/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
