@@ -10,28 +10,3 @@
 Addon em beta</info>
 </channel>
 </channels>
-
-<channels>
-<channel>
-<name>[COLOR blue][B] Canais abertos [/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>
-
-
-Canais abertos são os canais de TV transmitidos em UHF e VHF gratuitamente</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR rede][B] canais fechados [/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>
-
-
-canais fechados são canais transmitidos pelas empresas de TV por assinatura.</info>
-</channel>
-</channels>
