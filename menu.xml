@@ -13,20 +13,19 @@ Addon em beta</info>
 
 <channels>
 <channel>
-<name>[B][COLOR blue]Canais de rede aberta[/COLOR][/B]</name>
+<name>[COLOR blue][B] Canais abertos [/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
 
 
-O sinal aberto ou free-to-air (FTA) é uma forma utilizada para se referir ao sinal de televisão e rádio que não foi criptografado. Normalmente o sinal é transmitido via satélite, mas existem algumas emissoras que transmitem o sinal nas bandas VHF ou UHF.</info>
-</channel>
+Canais abertos são os canais de TV transmitidos em UHF e VHF gratuitamente</channel>
 </channels>
 
 <channels>
 <channel>
-<name>[B][COLOR rede]Canais de rede Fechada[/COLOR][/B]</name>
+<name>[COLOR rede][B] canais fechados [/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
