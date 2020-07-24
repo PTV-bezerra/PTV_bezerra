@@ -24,7 +24,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR blue] ► [COLOR mediumorchid] Rede Fechada [/COLOR] ◄ [/COLOR][COLOR green] [OFF] [/COLOR][/B]</name>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] Rede Fechada [/COLOR] ◄ [/COLOR][COLOR red] [OFF] [/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
