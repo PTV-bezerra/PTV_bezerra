@@ -1,0 +1,21 @@
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] Desenhos [/COLOR] ◄ [/COLOR][COLOR green] [ON] [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/rede_aberta.txt</externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] Anime [/COLOR] ◄ [/COLOR][COLOR green] [ON] [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/rede_aberta.txt</externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
