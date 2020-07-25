@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR blue] ► [COLOR mediumorchid] SBT [/COLOR] ◄ [/COLOR][COLOR green] [SP] [/COLOR][/B]</title>
-<linkhttp://smvlive.xyz:25461/Suelyrodriguez/rodriguez/36></link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/36></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
