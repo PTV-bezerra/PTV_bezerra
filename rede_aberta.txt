@@ -4,9 +4,9 @@
 MODELO COM VÁRIOS LINKS DO GDRIVE
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] SBT [/COLOR] ◄ [/COLOR][COLOR green] [ON] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/5836$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] SBT [/COLOR] ◄ [/COLOR][COLOR green] [SP] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/36$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] SBT [/COLOR] ◄ [/COLOR][COLOR green] [SP@] [/COLOR][/B]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
