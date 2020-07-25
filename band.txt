@@ -1,0 +1,10 @@
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Band [/COLOR] ◄ [/COLOR][COLOR green] [ DESCONHECIDO ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/124</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+
