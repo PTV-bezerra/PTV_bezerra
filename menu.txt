@@ -2,7 +2,7 @@
 <channel>
 <name>[B] Bem Vindo Ao PTV - Bezerra [/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/teste.txt</externallink>
 <fanart></fanart>
 <info>
 
