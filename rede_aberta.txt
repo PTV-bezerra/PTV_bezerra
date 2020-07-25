@@ -1,3 +1,54 @@
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] SBT [/COLOR] ◄ [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/sbt.txt</externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
 
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] Globo [/COLOR] ◄ [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/rede_aberta.txt</externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
 
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] Band [/COLOR] ◄ [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/rede_aberta.txt</externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
 
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] RecordTV [/COLOR] ◄ [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/rede_aberta.txt</externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] RedeTV [/COLOR] ◄ [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/rede_aberta.txt</externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
