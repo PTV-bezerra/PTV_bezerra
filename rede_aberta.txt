@@ -24,7 +24,7 @@
 <channel>
 <name>[B][COLOR blue] ► [COLOR mediumorchid] Band [/COLOR] ◄ [/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/rede_aberta.txt</externallink>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/band.txt</externallink>
 <fanart></fanart>
 <info>
 </info>
