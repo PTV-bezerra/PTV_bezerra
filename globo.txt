@@ -1,0 +1,54 @@
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Globo [/COLOR] ◄ [/COLOR][COLOR green] [ SP ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/89</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Globo [/COLOR] ◄ [/COLOR][COLOR green] [ TV TEM BAURU] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/689</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Globo [/COLOR] ◄ [/COLOR][COLOR green] [ TV TEM SOROCABA ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/690</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Globo [/COLOR] ◄ [/COLOR][COLOR green] [ BRASILIA ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/1426</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Globo [/COLOR] ◄ [/COLOR][COLOR green] [ NORDESTE ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/1422</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Globo [/COLOR] ◄ [/COLOR][COLOR green] [ BAHIA ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/1679</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
