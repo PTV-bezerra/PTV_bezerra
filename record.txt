@@ -1,0 +1,62 @@
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] RecordTV [/COLOR] ◄ [/COLOR][COLOR green] [ DESCONHECIDO ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/41</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] RecordTV [/COLOR] ◄ [/COLOR][COLOR green] [ Brasilia ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/1687</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] RecordTV [/COLOR] ◄ [/COLOR][COLOR green] [ Campinas ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/2556</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] RecordTV [/COLOR] ◄ [/COLOR][COLOR green] [ Bahia ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/2854</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] RecordTV [/COLOR] ◄ [/COLOR][COLOR green] [  Rio ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/3645</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] RecordTV [/COLOR] ◄ [/COLOR][COLOR green] [ Minas ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/3662</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] RecordTV [/COLOR] ◄ [/COLOR][COLOR green] [ Parana ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/4296</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
