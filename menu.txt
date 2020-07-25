@@ -9,13 +9,7 @@
 
 [B][COLOR red]Aviso[/COLOR]: Addon em beta[/B]
 [B][COLOR red]
-NÃO HOSPEGAMOS NENHUM CONTEÚDO PROTEGIDO POR DIREITOS AUTORIAS.
-NENHUM DOS VIDEOS OU CANAL ESTÁ HOSPEDADO EM NOSSO SERVIDOR.
-
-Exitem duas forma de acessar canais IPTV legalmente, tanto gratuitamente quanto mediante pagamento. Nenhuma delas é pirataria, se você fizer tudo como deve.
-
-Se você não quer pagar nada, pode acessar listas IPTV que contenham apenas emissoras da rede aberta, sejam elas VHF ou UHF (Globo, Record, SBT, TV Senado, Cultura, Rede Vida, etc…) que por transmitirem de maneira aberta, não constitui pirataria o ato de retransmiti-las pela internet desde que o sinal de origem não seja via cabo..[/COLOR][/B]
-</info>
+NÃO HOSPEGAMOS NENHUM CONTEÚDO PROTEGIDO POR DIREITOS AUTORIAS.NENHUM DOS VIDEOS OU CANAL ESTÁ HOSPEDADO EM NOSSO SERVIDOR.Exitem duas forma de acessar canais IPTV legalmente, tanto gratuitamente quanto mediante pagamento. Nenhuma delas é pirataria, se você fizer tudo como deve.Se você não quer pagar nada, pode acessar listas IPTV que contenham apenas emissoras da rede aberta, sejam elas VHF ou UHF (Globo, Record, SBT, TV Senado, Cultura, Rede Vida, etc…) que por transmitirem de maneira aberta, não constitui pirataria o ato de retransmiti-las pela internet desde que o sinal de origem não seja via cabo..[/COLOR][/B]</info>
 </channel>
 </channels>
 
