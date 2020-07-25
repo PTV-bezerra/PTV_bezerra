@@ -40,3 +40,68 @@ Autores: Stephen Hillenburg, Doug Lawrence, Paul Tibbitt, MAIS
 </info>
 <genre></genre>
 </item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Castelo Ra Tim Bum [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6949</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Programa destinado ao público infantil. Embarque nas aventuras de Dr. Victor, bruxa Morgana, Nino e seus amigos.
+Primeiro episódio: 9 de maio de 1994
+Episódio final: 24 de dezembro de 1997
+Emissora original: TV Cultura
+Número de episódios: 90
+Elenco: Luciano Amaral, Cassio Scapin, Rosi Campos, MAIS</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Marsha E Urso [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6927</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Uma garotinha chamada Masha mora na floresta com seu cachorro, sua cabra e seu porco, e muitas vezes enfrenta as situações mais engraçadas. Ela faz amizade com um urso bastante paternal, que tenta mantê-la longe do perigo.
+Primeiro episódio: 18 de janeiro de 2009
+Número de temporadas: 4
+Criador: Oleg Kuzovkov
+Autor: Oleg Kuzovkov
+Emissoras originais: Universal Kids, Carousel, Rossiya 1</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid]  [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] PICA PAU [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6910</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Pica-Pau é um personagem da série estadunidense de mesmo nome, um pica-pau antropomórfico, que estrelou vários curta-metragens de animação produzidos pelo estúdio de Walter Lantz e distribuídos pela Universal Pictures. Wikipédia
+Espécie: Pica-pau
+Origem: Estados Unidos
+Nome original: Woody Woodpecker
+Criadores: Ben Hardaway, Walter Lantz, Alex Lovy
+Interpretado por: Ben Hardaway, Eric Bauza, Grace Stafford, Billy West, Mel Blanc</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Scooby Dooo [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6902</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Esta encarnação da popular série de desenho animado encontra Scooby-Doo e sua gangue vivendo em uma pequena cidade com uma longa história de fantasmas, monstros e outros mistérios prontos para serem solucionados.
+Primeiro episódio: 5 de abril de 2010
+Emissora original: Cartoon Network
+Número de temporadas: 2
+Número de episódios: 52
+G</info>
+<genre></genre>
+</item>
