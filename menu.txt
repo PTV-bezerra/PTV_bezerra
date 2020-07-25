@@ -22,3 +22,26 @@
 </info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] 24hrs [/COLOR] ◄ [/COLOR][COLOR red] [OFF] [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/rede_aberta.txt</externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] Filmes [/COLOR] ◄ [/COLOR][COLOR red] [ OFF ] [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
