@@ -1,0 +1,26 @@
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] SBT [/COLOR] ◄ [/COLOR][COLOR green] [SP] [/COLOR][/B]</title>
+<linkhttp://smvlive.xyz:25461/Suelyrodriguez/rodriguez/36></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] SBT [/COLOR] ◄ [/COLOR][COLOR green] [CURITIBA] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6155</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] SBT [/COLOR] ◄ [/COLOR][COLOR green] [PI] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6157</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
