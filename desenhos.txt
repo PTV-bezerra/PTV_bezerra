@@ -1,0 +1,42 @@
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] A Casa de Mikey Mouse [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6960</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Mickey e sua turma estão sempre aprontando no Clube. Mickey leva seus telespectadores a um mundo de histórias com segmentos musicais e jogos. O básico da matemática e a identificação de formas e números fazem parte das lições de Mickey.
+Primeiro episódio: 15 de novembro de 2005
+Episódio final: 6 de novembro de 2016
+Número de temporadas: 4
+Elenco: Russi Taylor, Bill Farmer, Tony Anselmo, Tress MacNeille, MAIS
+Emissoras originais: Disney Junior, Playhouse Disney, Disney Channel</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] A Pantera cor de rosa [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6959</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>A Pantera Cor-de-Rosa foi um personagem criado para fazer apenas uma introdução ao filme Pantera Cor-de-Rosa, de Blake Edwards. O sucesso foi tão grande que começou a ter uma série animada própria.
+Primeiro episódio: 6 de setembro de 1969
+Episódio final: 30 de agosto de 1980
+Número de temporadas: 11
+Personagens: Pantera Cor-de-Rosa, Harry Halibut, MAIS
+Emissoras originais: National Broadcasting Company, American Broadcasting Company</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] BOB esponja [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6954</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Uma esponja-do-mar chamada Bob Esponja Calça Quadrada mora com seu caracol de estimação na Fenda do Biquíni, no fundo do oceano. Bob trabalha no Siri Cascudo e, nas horas vagas, vive arrumando confusões com seu melhor amigo, a estrela-do-mar Patrick.
+Primeiro episódio: 1 de maio de 1999
+Tema musical: SpongeBob SquarePants
+Aniversário: 17 de julho de 1999
+Emissora original: Nickelodeon
+Autores: Stephen Hillenburg, Doug Lawrence, Paul Tibbitt, MAIS
+</info>
+<genre></genre>
+</item>
