@@ -79,16 +79,18 @@ Emissoras originais: Universal Kids, Carousel, Rossiya 1</info>
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [COLOR mediumorchid] PICA PAU [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Papa Leguas [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
 <linkhttp://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6914</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info>Pica-Pau é um personagem da série estadunidense de mesmo nome, um pica-pau antropomórfico, que estrelou vários curta-metragens de animação produzidos pelo estúdio de Walter Lantz e distribuídos pela Universal Pictures. Wikipédia
-Espécie: Pica-pau
-Origem: Estados Unidos
-Nome original: Woody Woodpecker
-Criadores: Ben Hardaway, Walter Lantz, Alex Lovy
-Interpretado por: Ben Hardaway, Eric Bauza, Grace Stafford, Billy West, Mel Blanc</info>
+<info>Papa-Léguas é uma série de desenho animado americana criado pelo diretor Chuck Jones com histórias desenvolvidas pelo escritor Michael Maltese. Teve seu primeiro episódio exibido no dia 16 de setembro de 1949. Wikipédia
+Idioma original: inglês
+Transmissão original: 17 de setembro de 1949 – 10 de junho de 2014
+Episódios: 49
+Criador(es): Walt Lantz
+Estado: Cancelado
+Diretor(es): Chuck Jones
+Duração: 26 min. aprox. por episódio</info>
 <genre></genre>
 </item>
 
