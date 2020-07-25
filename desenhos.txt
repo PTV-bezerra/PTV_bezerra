@@ -107,3 +107,17 @@ Número de episódios: 52
 G</info>
 <genre></genre>
 </item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Os Padrinhos Magicos [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6917</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>As interessantes aventuras de um menino de dez anos e seus padrinhos com poderes especiais. Juntos, o grupo provoca um caos mágico.
+Primeiro episódio: 30 de março de 2001
+Criador: Butch Hartman
+Elenco: Butch Hartman, Tara Strong, Daran Norris, Susanne Blakeslee, Grey DeLisle, mais
+Autores: Butch Hartman, Kevin Sullivan, Scott Fellows, Ray De Laurentis, mais
+Emissoras originais: Nickelodeon, Nicktoons, YTV, Canal Panda</info>
+<genre></genre>
+</item>
