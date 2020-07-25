@@ -1,6 +1,15 @@
 <item>
+<title>[B][COLOR blue] ► [COLOR white] Bem Vindo ao Rede Aberta [/COLOR] ◄ [/COLOR][COLOR green] [SP] [/COLOR][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
 <title>[B][COLOR blue] ► [COLOR mediumorchid] SBT [/COLOR] ◄ [/COLOR][COLOR green] [SP] [/COLOR][/B]</title>
-<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/36></link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/36</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
