@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [COR mediumorchid] TNT Series [/COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] TNT series [/COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/12</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
