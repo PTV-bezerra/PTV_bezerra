@@ -121,3 +121,17 @@ Autores: Butch Hartman, Kevin Sullivan, Scott Fellows, Ray De Laurentis, mais
 Emissoras originais: Nickelodeon, Nicktoons, YTV, Canal Panda</info>
 <genre></genre>
 </item>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Gumball [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/6933</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Aventuras de um gato com propensão para se meter em encrencas, mas parece não aprender a lição. Seu melhor amigo é o peixe Darwin. Anais, sua irmã mais jovem, é o membro mais inteligente da família. Já sua mãe trabalha enquanto o pai assiste a TV.
+Primeiro episódio: 8 de maio de 2008
+Número de temporadas: 6
+Emissora original: Cartoon Network
+Autores: Ben Bocquelet, Mic Graves, James Lamont, Jon Foster, Andrew Brenner
+Elenco: Jacob Hopkins, Teresa Gallagher, Kyla Rae Kowalewski</info>
+<genre></genre>
+</item>
