@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR blue] ► [CORLOR mediumorchid] Telecine Premium [/ COLOR] ◄ [/ COLOR] [COLOR green] [ON] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [CORLOR mediumorchid] Telecine Premium [/ COLOR] ◄ [/ COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/18</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -8,7 +8,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [CORLOR mediumorchid] HBO [/COLOR] ◄ [/COLOR] [COLOR green] [ ON] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [CORLOR mediumorchid] HBO [/COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/84</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [COR média orquídea] TNT Series [/COLOR] ◄ [/COLOR] [COLOR green] [ ON] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [COR mediumorchid] TNT Series [/COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/12</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -26,7 +26,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [CORLOR mediumorchid] Fox Premium [/ COLOR] ◄ [/COLOR] [COLOR green] [ ON] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [CORLOR mediumorchid] Fox Premium [/ COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/2794</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [CORLOR mediumorchid] MegaPix [/COLOR] ◄ [/COLOR] [COLOR green] [ON ] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [CORLOR mediumorchid] MegaPix [/COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/69</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [CORLOR mediumorchid] Cinemax [/COLOR] ◄ [/COLOR] [COLOR green] [ON ] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [CORLOR mediumorchid] Cinemax [/COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/115</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -53,7 +53,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [COLOR mediumorchid] Discovery Kids [/COLOR] ◄ [/COLOR] [COLOR green] [ ON] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Discovery Kids [/COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
 <link> http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/108</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -62,7 +62,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [COR média ou orquídea] NatGeo Kids [/COLOR] ◄ [/COLOR] [COLOR green] [ ON] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [COLOR  mediumorchid] NatGeo Kids [/COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/1601</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [CORLOR mediumorchid] Disney Jr [/COLOR] ◄ [/COLOR] [COLOR green] [ ON] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Disney Jr [/COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/104</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
