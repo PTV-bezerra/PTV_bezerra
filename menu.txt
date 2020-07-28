@@ -23,6 +23,28 @@
 </channel>
 </channels>
 
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Canais Fechados [/COLOR] ◄ [/COLOR][COLOR green] [ ON -  TEMP ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/18$$lsname=>[B][COLOR blue] ► [COLOR mediumorchid] Telecine Premium [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</1</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/84$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] HBO ROTA [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/12$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] TNT Series [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/2794$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Fox Premium [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/69$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] MegaPix [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/115$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Cinemax [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/108$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Discovery Kids [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/1601$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] NatGeo Kids [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/104$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Disney Jr [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/103$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Disney XD [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/116$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Cartoon Network [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/1566$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] History Channel [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/64$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Nat Geo ROTA [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/131$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Animal Planet [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Temporario</info>
+<genre></genre>
+</item>
+
 <channels>
 <channel>
 <name>[B][COLOR blue] ► [COLOR mediumorchid] 24hrs [/COLOR] ◄ [/COLOR][COLOR green] [ON] [/COLOR][/B]</name>
