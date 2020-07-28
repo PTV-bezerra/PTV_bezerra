@@ -25,7 +25,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR blue] ► [COLOR mediumorchid] Canais Fechados [/COLOR] ◄ [/COLOR][COLOR green] [ON] [/COLOR][/B]</name>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] Canais Fechados [/COLOR] ◄ [/COLOR][COLOR green] [ON - TEMP ] [/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/canais_fechados.txt</externallink>
 <fanart></fanart>
