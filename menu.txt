@@ -22,7 +22,6 @@
 </info>
 </channel>
 </channels>
-
 <item>
 <title>[B][COLOR blue] ► [COLOR mediumorchid] Canais Fechados [/COLOR] ◄ [/COLOR][COLOR green] [ ON -  TEMP ] [/COLOR][/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/18$$lsname=>[B][COLOR blue] ► [COLOR mediumorchid] Telecine Premium [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</1</link>
@@ -44,7 +43,6 @@
 <info>Temporario</info>
 <genre></genre>
 </item>
-
 <channels>
 <channel>
 <name>[B][COLOR blue] ► [COLOR mediumorchid] 24hrs [/COLOR] ◄ [/COLOR][COLOR green] [ON] [/COLOR][/B]</name>
@@ -55,8 +53,6 @@
 </info>
 </channel>
 </channels>
-
-
 <channels>
 <channel>
 <name>[B][COLOR blue] ► [COLOR mediumorchid] Filmes [/COLOR] ◄ [/COLOR][COLOR red] [OFF] [/COLOR][/B]</name>
