@@ -26,7 +26,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [COLOR mediumorchid] Fox Premium [/ COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Fox Premium [/COLOR] ◄ [/COLOR] [COLOR green] [ ON ] [/COLOR] [/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/2794</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
