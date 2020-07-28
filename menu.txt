@@ -1,0 +1,68 @@
+<channels>
+<channel>
+<name>[B] Bem Vindo Ao PTV - Bezerra [/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/teste.txt</externallink>
+<fanart></fanart>
+<info>
+
+
+[B][COLOR red]Aviso[/COLOR]: Addon em beta[/B]
+[B][COLOR red]NÃO HOSPEGAMOS NENHUM CONTEÚDO PROTEGIDO POR DIREITOS AUTORIAS.NENHUM DOS VIDEOS OU CANAL ESTÁ HOSPEDADO EM NOSSO SERVIDOR.Exitem duas forma de acessar canais IPTV legalmente, tanto gratuitamente quanto mediante pagamento. Nenhuma delas é pirataria, se você fizer tudo como deve.Se você não quer pagar nada, pode acessar listas IPTV que contenham apenas emissoras da rede aberta, sejam elas VHF ou UHF (Globo, Record, SBT, TV Senado, Cultura, Rede Vida, etc…) que por transmitirem de maneira aberta, não constitui pirataria o ato de retransmiti-las pela internet desde que o sinal de origem não seja via cabo..[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] Rede Aberta [/COLOR] ◄ [/COLOR][COLOR green] [ON] [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/rede_aberta.txt</externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] 24hrs [/COLOR] ◄ [/COLOR][COLOR green] [ON] [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/PTV-bezerra/PTV_bezerra/master/menu_24hrs.txt</externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR blue] ► [COLOR mediumorchid] Filmes [/COLOR] ◄ [/COLOR][COLOR red] [OFF] [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+</info>
+</channel>
+</channels>
+
+<item>
+<title>[B][COLOR blue] ► [COLOR mediumorchid] Canais Fechados [/COLOR] ◄ [/COLOR][COLOR green] [ ON -  TEMP ] [/COLOR][/B]</title>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/18$$lsname=>[B][COLOR blue] ► [COLOR mediumorchid] Telecine Premium [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</1</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/84$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] HBO ROTA [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/12$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] TNT Series [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/2794$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Fox Premium [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/69$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] MegaPix [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/115$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Cinemax [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/108$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Discovery Kids [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/1601$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] NatGeo Kids [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/104$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Disney Jr [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/103$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Disney XD [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/116$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Cartoon Network [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/1566$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] History Channel [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/64$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Nat Geo ROTA [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/131$$lsname=[B][COLOR blue] ► [COLOR mediumorchid] Animal Planet [/COLOR] ◄ [/COLOR][COLOR green] [ ON ] [/COLOR][/B]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Temporario</info>
+<genre></genre>
+</item>
