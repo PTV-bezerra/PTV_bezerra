@@ -107,7 +107,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue] ► [COR média orquídea] Nat Geo ROTA [/COLOR] ◄ [/COLOR] [COLOR green] [ON] [/COLOR] [/B]</title>
+<title>[B][COLOR blue] ► [COR mediumorchid] Nat Geo ROTA [/COLOR] ◄ [/COLOR] [COLOR green] [ON] [/COLOR] [/B]</title>
 <link>http://smvlive.xyz:25461/Suelyrodriguez/rodriguez/64</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
